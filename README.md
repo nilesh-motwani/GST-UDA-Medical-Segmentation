@@ -25,7 +25,6 @@ This repository provides the complete implementation of our unified UDA framewor
 
 ## 🗂️ Repository Structure
 
-```text
 GST-UDA-Medical-Segmentation/
 ├── README.md                  # Project documentation
 ├── requirements.txt           # Python dependencies
