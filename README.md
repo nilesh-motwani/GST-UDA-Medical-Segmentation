@@ -1,13 +1,5 @@
 # GST-UDA-Medical-Segmentation
 Geometric Self-Training for Unsupervised Domain Adaptation in Multi-Modality Medical Image Segmentation
-Here is a complete, professional, publication-grade `README.md` tailored specifically for your UDA project.
-
-### Suggested Repository Name
-
-* **Repository Name:** `GST-UDA-Medical-Segmentation`
-* **Full Title:** Geometric Self-Training for Unsupervised Domain Adaptation in Multi-Modality Medical Image Segmentation
-
----
 
 ```markdown
 # GST-UDA-Medical-Segmentation
@@ -141,7 +133,7 @@ If you find this code useful for your research or academic publication, please c
 @article{motwani2026gstuda,
   title={Cross-Modality Medical Image Segmentation via Fourier Domain Adaptation and Geometric Self-Training},
   author={Motwani, Nilesh and Collaborators},
-  journal={IEEE Transactions on Medical Imaging / Under Review},
+  journal={Under Review},
   year={2026}
 }
 
